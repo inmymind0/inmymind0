@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [in my mind] 👋
 ### Game Developer | C++ & Unreal Engine Specialist
 
 I am a passionate Game Developer focused on high-performance systems and immersive gameplay experiences. My expertise lies in low-level programming with **C/C++** and architectural design within **Unreal Engine 5**. 
@@ -33,4 +33,6 @@ I am a passionate Game Developer focused on high-performance systems and immersi
 <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+---
 *"Code is like humor. When you have to explain it, it’s bad."*
