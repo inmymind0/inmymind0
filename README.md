@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋
+### Game Developer | C++ & Unreal Engine Specialist
 
-<!--
-**inmymind0/inmymind0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Game Developer focused on high-performance systems and immersive gameplay experiences. My expertise lies in low-level programming with **C/C++** and architectural design within **Unreal Engine 5**. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+### 🚀 Languages & Core
+* **C / C++:** Engine-level development, Memory Management, Data Structures.
+* **C#:** Scripting, Tooling, and Unity-based logic.
+* **JavaScript:** Web integration, UI prototyping, and backend scripts (70% proficiency).
+
+### 🎮 Game Development
+* **Unreal Engine 5:** Blueprints & C++ integration, Nanite, Lumen, Niagara.
+* **DirectX / OpenGL:** Shader programming and rendering pipelines.
+* **Version Control:** Git, Perforce (P4).
+
+---
+
+## 📊 My Skills
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Unreal Engine 5](https://img.shields.io/badge/Unreal%20Engine%205-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## 📈 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+*"Code is like humor. When you have to explain it, it’s bad."*
