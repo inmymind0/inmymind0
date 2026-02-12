@@ -30,6 +30,9 @@ I am a passionate Game Developer focused on high-performance systems and immersi
 
 ## 📈 GitHub Stats
 
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inmymind0&show_icons=true&theme=tokyonight&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inmymind0&layout=compact&theme=tokyonight) |
+| :---: | :---: |
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=inmymind0&theme=tokyo-night)
 
 ---
