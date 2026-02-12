@@ -29,10 +29,9 @@ I am a passionate Game Developer focused on high-performance systems and immersi
 ---
 
 ## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=inmymind0&show_icons=true&theme=tokyonight&count_private=true" alt="inmymind0's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inmymind0&layout=compact&theme=tokyonight" alt="inmymind0's Top Languages" />
-</p>
+
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inmymind0&show_icons=true&theme=tokyonight&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inmymind0&layout=compact&theme=tokyonight) |
+| :---: | :---: |
 
 ---
 *"Code is like humor. When you have to explain it, it’s bad."*
